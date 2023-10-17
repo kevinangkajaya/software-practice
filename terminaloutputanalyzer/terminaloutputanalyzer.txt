@@ -1,0 +1,23 @@
+$ cd /
+$ ls
+dir alice
+2318922 bob.rtf
+1456093 carol.mkv
+dir documents
+$ cd alice
+$ ls
+dir everest
+611921 frisbee
+5525622 gamma
+5552662 highgate.res
+$ cd everest
+$ ls
+1144 xc
+$ cd ..
+$ cd ..
+$ cd documents
+$ ls
+11981293 uo
+1232132 fgio.png
+11849282 ywer.exe
+349343 zaq
