@@ -9,8 +9,8 @@ import (
 )
 
 func main() {
-	// textFile, err := src.ReadLines("terminaloutputanalyzer.txt")
-	textFile, err := src.ReadLines("terminaloutputanalyzer2.txt")
+	textFile, err := src.ReadLines("terminaloutputanalyzer.txt")
+	// textFile, err := src.ReadLines("terminaloutputanalyzer2.txt")
 	if err != nil {
 		panic(err)
 	}
